@@ -1,1 +1,1 @@
-# GitHub_Badges
+# GitHub Badges
